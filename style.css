@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: #28cb95;
+}
+
+
+
+h1{
+    text-align: center;
+    background-color: brown;
+    text-transform: capitalize;
+    margin-top: 20px 30px;
+    padding: 20px 30px;
+    font-size: 50px;
+}
+.btn{
+    font-size: 15px;
+    border: 1px solid black;
+    margin: 30px 20px;
+    padding: 10px;
+    background-color: darkgrey;
+}
+.button{
+    background-color: darkorange;
+    border: 1px solid gray;
+    margin: 20px 30px;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10%;
+    
+}
